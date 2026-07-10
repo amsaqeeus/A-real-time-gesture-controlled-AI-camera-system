@@ -53,7 +53,8 @@ GestureCam/
 │   ├── vision/
 │   └── main.py
 │
-├── photos/
+├── captures/
+├── config/
 ├── requirements.txt
 └── README.md
 ```
