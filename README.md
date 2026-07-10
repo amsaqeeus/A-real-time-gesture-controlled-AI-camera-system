@@ -74,7 +74,7 @@ GestureCam/
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/GestureCam.git
+git clone https://github.com/asmaBelkerrouche/GestureCam.git
 ```
 
 Move into the project directory.
